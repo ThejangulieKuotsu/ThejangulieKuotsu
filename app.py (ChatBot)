@@ -1,6 +1,6 @@
 from groq import Groq
 
-client = Groq(api_key="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")
+client = 
 
 def add_to_chat_history(history, role, content):
 	"""Append one message to chat history."""
